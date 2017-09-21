@@ -6,3 +6,5 @@ Commands we've learned:
 3. git add
 4. git commit
 5. git diff
+6. git checkout
+7. git log
