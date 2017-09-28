@@ -8,3 +8,6 @@ Commands we've learned:
 5. git diff
 6. git checkout
 7. git log
+
+1. git branch - lists your branches
+2. git checkout -b <branchname> - create a new branch
