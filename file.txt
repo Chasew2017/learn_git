@@ -12,4 +12,5 @@ Commands we've learned:
 1. git branch - lists your branches
 2. git checkout -b <branchname> - create a new branch
 3. work as normal...
-4. git merge - merge branches
+4. git checkout <branchname> - switch branches
+5. git merge - merge branches (e.g. git merge learning-branches)
